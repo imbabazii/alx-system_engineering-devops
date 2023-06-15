@@ -1,1 +1,2 @@
-VimCrypt~03!àH­´Cv>CU©‘È”s;/ª?§R©»2¸i.šÏïZ´²ËóK€ŞS£yölœØ§B­q?†
+#!/bin/bash
+grep -i -A 3 "root" /etc/passwd
